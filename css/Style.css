@@ -1,0 +1,148 @@
+
+
+body {
+   width: 100vw;
+   height: 150vh;
+   margin: ;
+   padding: 20px, 0px; 
+   background-color: black;
+ }
+
+
+h1 {
+   color: #daca0c;
+   font-family: chivo;
+   font-size: 50px;
+   letter-spacing: 2px;
+   width: auto;
+   height: auto;
+   text-align: left;
+   border: outset; 
+   margin: 0vw;
+   padding: 0vh;
+ }
+
+
+.banner { 
+  width: 100vw;
+  height: 360px;
+  padding: 40px;
+  border: auto;
+  background-color: black;
+  color: black;
+  border: outset;
+ }
+
+.banner img {
+   width: 240px;
+   height: 240px;
+   padding: auto;
+   margin: auto;
+ }
+
+.ins img {
+   width: 2vw;
+   height: 4vh;
+   position: absolute; 
+   top: 14.5vw; 
+   right: 65vh;
+
+ }
+
+.banner h2 {
+   color: white;
+   font-family: chivo;
+   font-size: 36px;
+   position: absolute;
+   top: 295px; 
+   right: 240px;
+ }
+
+
+
+.Container { 
+   background-image: url(images2/Modelo3.jpg);
+   background-repeat: no-repeat; 
+   width: 100vw;
+   height: 70vh;
+   margin: 0px;
+   border: outset;
+ }
+
+
+.Container p { 
+   color: black;
+   font-family: italic;
+   width: auto;
+   height: auto;
+   font-size: 60px;
+   position: absolute;
+   top: 550px;
+   border: inset;
+   background-color: gold transparent;
+   transform-style: preserve-3d;
+}
+
+.CFond img {
+   position: absolute;
+   top: 18.5vw; 
+   right: 5vh;
+   width: 660px;
+   height: 660px;
+   margin: auto;
+   padding: 0px;
+   display: inline-block;
+   border: inset;
+}
+
+.Cards {
+   background-color: yellow;
+   width: 100vw; 
+   height: auto;
+   border:;
+ }
+
+.Cards-S {
+  box-sizing: content-box;
+  display: inline-block;
+  background-color: black;
+  width: 24vw;
+  padding: 0vh;
+  margin: 0.2vw;
+  border: ridge;
+ }
+
+
+.Cards-S img {
+  display: block;
+  width: 340px; 
+  height: 340px;
+  margin: auto;
+  padding: 5px;
+  border-color: black;
+
+ }
+
+.Cards-S h3, h4, h5, h6 {
+   color: silver;
+   font-family: Chivo ;
+   font-size: 35px;
+   text-align: center;
+ }
+
+.Cards-S ul, li {
+   font-family: arial;  
+   font-size: 25px ;
+   text-align: justify;
+   color: white;
+   text-align: left;
+}
+
+
+.div-grey{
+}
+
+#fixed {
+ }
+
+ .btn
